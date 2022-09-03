@@ -105,4 +105,3 @@ See [ioreg](./MacBook%20Pro%2014%2C1.zip) for more clarification
 
 - [Apple](https://apple.com) for macOS.
 - [Acidanthera](https://github.com/acidanthera) for OpenCore and all the lovely hackintosh work.
-- [Juico](https://github.com/juico) for fix Alps i2c touchpad.

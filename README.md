@@ -5,7 +5,7 @@
 
 EFI for enovo ThinkPad E570 with OpenCore bootloader
 
-![descrizione](./Screenshot/pc.jpg)
+![descrizione](./Screenshot/pc.png)
 
 ### Computer Spec:
 

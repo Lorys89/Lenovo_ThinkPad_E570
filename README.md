@@ -1,1 +1,1 @@
-# Lenovo_ThinkPad_E570
+# Lenovo ThinkPad E570 (Kaby Lake) Hackintosh

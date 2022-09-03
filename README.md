@@ -60,15 +60,10 @@ EFI for enovo ThinkPad E570 with OpenCore bootloader
 
 ![infohack](./Screenshot/periferiche.png)
 ![infodp2](./Screenshot/pci-list.png)
-![infopci](./Screenshot/pci-dev.png)
 ![Temp-Fan-Control](./Screenshot/Temp-Fan-Control.png)
 ![speedtest](./Screenshot/speedtest.png)
 ![touchpad](./Screenshot/touchpad.png)
 ![trascinamento](./Screenshot/trascinamento.png)
-![5finger](./Screenshot/fingermgmt.png)
-![CPU](./Screenshot/CPU.png)
-![openCL](./Screenshot/openCL.png)
-![metal](./Screenshot/metal.png)
 ![videoproc](./Screenshot/videoproc.png)
 
 

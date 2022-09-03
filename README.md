@@ -58,7 +58,7 @@ EFI for enovo ThinkPad E570 with OpenCore bootloader
 - [x] NVRAM (Native)
 - [x] Recovery (macOS) boot from OpenCore
 - [x] Windows 11 boot from OpenCore
-- [x] Linuc boot from OpenCore
+- [x] Linux boot from OpenCore
 
 ## Peripherals & TouchPad Setting & Benchmarks
 
@@ -73,12 +73,12 @@ EFI for enovo ThinkPad E570 with OpenCore bootloader
 
 ### Special Config:
 
-- Usb port mapping performed (with port HS08 for touchscreen model)
+- Usb port mapping performed
 - SSDT-Hack Essential patch
 
 ### Post Install:
 
-Install [YogaSMC app release](https://github.com/zhen-zen/YogaSMC/releases))
+Install [YogaSMC app release](https://github.com/zhen-zen/YogaSMC/releases)
 
 See [ioreg](./MacBook%20Pro%2014%2C1.zip) for more clarification
 

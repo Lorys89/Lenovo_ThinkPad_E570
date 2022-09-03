@@ -82,7 +82,7 @@ EFI for enovo ThinkPad E570 with OpenCore bootloader
 Open terminal and run install.sh from TOOLS EFI MOD/ComboJack_Installer. After reboot insert jack and appears this image
 ![jack](./Screenshot/Combojackfix.png)
 
-See [ioreg](./MacBook%20Pro%2014%2C1.ioreg) for more clarification
+See [ioreg](./MacBook%20Pro%2014%2C1.zip) for more clarification
 
 
 ### MacOS bootable USB creation:

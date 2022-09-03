@@ -44,16 +44,16 @@ EFI for enovo ThinkPad E570 with OpenCore bootloader
 - [x] HID Key PWRB & SLPB 
 - [x] SYNA Touchpad with gesture + TrackPoint
 - [x] Keyboard (PS2-Internal) with backlight
-- [x] Brightness Key
-- [x] F11 Print Screen Key
-- [x] F1 & F2 & F3 Sound Key
-- [x] Wi-Fi and Bluetooth BCM94352Z (DELL DW1560) Module
-- [x] Lan Intel I219-LM
+- [x] F5 & F6 Brightness Key
+- [x] F7 to F12 Wifi, Bt, Setting and other
+- [x] F1 & F2 & F3 Sound Key & F4 Mic
+- [x] Wi-Fi and Bluetooth BCM94350ZAE (DELL DW1820A) Module
+- [x] Lan Realtek 8168
 - [x] SSD NVME Slot-1 PciE
 - [x] Sata Slot AHCI
 - [x] SD Cardreader
 - [x] WebCam (USB-Internal)
-- [x] All Sensors CPU, IGPU, BATTERY, NVME, FAN
+- [x] All Sensors CPU, IGPU, BATTERY, NVME, SATA, FAN
 - [x] ACPI Battery
 - [x] NVRAM (Native)
 - [x] Recovery (macOS) boot from OpenCore
@@ -78,8 +78,7 @@ EFI for enovo ThinkPad E570 with OpenCore bootloader
 
 ### Post Install:
 
-Open terminal and run install.sh from TOOLS EFI MOD/ComboJack_Installer. After reboot insert jack and appears this image
-![jack](./Screenshot/Combojackfix.png)
+Install [YogaSMC app release](https://github.com/zhen-zen/YogaSMC/releases))
 
 See [ioreg](./MacBook%20Pro%2014%2C1.zip) for more clarification
 

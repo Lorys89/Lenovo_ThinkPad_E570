@@ -53,7 +53,7 @@ EFI for enovo ThinkPad E570 with OpenCore bootloader
 - [x] Sata Slot AHCI
 - [x] SD Cardreader
 - [x] WebCam (USB-Internal)
-- [x] All Sensors CPU, IGPU, BATTERY, NVME, SATA, FAN
+- [x] All Sensors CPU, BATTERY, NVME, SATA, FAN
 - [x] ACPI Battery
 - [x] NVRAM (Native)
 - [x] Recovery (macOS) boot from OpenCore

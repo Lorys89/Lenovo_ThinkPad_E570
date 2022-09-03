@@ -13,11 +13,13 @@ EFI for enovo ThinkPad E570 with OpenCore bootloader
 | ---------------- | ---------------------------------- |
 | CPU              | Intel i5 7200U (2C-4T 3MB KBL)     |
 | iGPU             | Intel® HD 620 Graphics             |
-| Lan              | Intel I219-LM                      |
-| Audio            | Realtek ALC256                     |
+| Lan              | Realtek 8168                       |
+| Audio            | Conexant CX20753                   |
 | Ram              | Crucial 16 GB DDR4 2133 Mhz        |
 | Wifi + Bluetooth | BCM94350ZAE (DW1820A)              |
-| NVMe             | SAMSUNG 980 500 GB (MACOS+WIN 11)  |
+| NVMe             | Intel PEKKF256G7L 256 GB (MACOS)   |
+| 1° SSD SATA      | Silicon Power A55 256 GB (WIN 11)  |
+| 2° SSD SATA      | Silicon Power A55 256 GB (LINUX)   |
 | SmBios           | MacBookPro 14,1                    |
 | BootLoader       | OpenCore 0.8.3                     |
 | macOS            | Ventura 13 beta 6                  |
@@ -31,12 +33,12 @@ EFI for enovo ThinkPad E570 with OpenCore bootloader
 - [x] Intel HD 620 iGPU HDMI Output 
 - [x] Intel HD 620 iGPU Type-C to HDMI Output
 - [x] Intel HD 620 iGPU - H264 & HEVC
-- [x] ALC256 Internal Speakers
-- [x] ALC256 Internal microphone
-- [x] ALC256 Combojack headphones
-- [x] ALC256 Combojack microphone
-- [x] ALC256 HDMI Audio Output
-- [x] ALC256 TYPE-C to HDMI Audio Output
+- [x] CX20753 Internal Speakers
+- [x] CX20753 Internal microphone
+- [x] CX20753 Combojack headphones
+- [x] CX20753 Combojack microphone
+- [x] CX20753 HDMI Audio Output
+- [x] CX20753 TYPE-C to HDMI Audio Output
 - [x] All USB-A 3.1 Ports (TYPE-C 3.1 Included)
 - [x] SpeedStep / Sleep / Wake
 - [x] HID Key PWRB & SLPB 
@@ -48,13 +50,15 @@ EFI for enovo ThinkPad E570 with OpenCore bootloader
 - [x] Wi-Fi and Bluetooth BCM94352Z (DELL DW1560) Module
 - [x] Lan Intel I219-LM
 - [x] SSD NVME Slot-1 PciE
-- [x] Micro SD Cardreader
+- [x] Sata Slot AHCI
+- [x] SD Cardreader
 - [x] WebCam (USB-Internal)
 - [x] All Sensors CPU, IGPU, BATTERY, NVME, FAN
 - [x] ACPI Battery
 - [x] NVRAM (Native)
 - [x] Recovery (macOS) boot from OpenCore
 - [x] Windows 11 boot from OpenCore
+- [x] Linuc boot from OpenCore
 
 ## Peripherals & TouchPad Setting & Benchmarks
 

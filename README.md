@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/EFI-Release-informational?style=flat&logo=apple&logoColor=white&color=9debeb)](https://github.com/Lorys89/Lenovo_ThinkPad_E570/releases)
 
 
-EFI for enovo ThinkPad E570 with OpenCore bootloader
+EFI for Lenovo ThinkPad E570 with OpenCore bootloader
 
 ![descrizione](./Screenshot/pc.png)
 
